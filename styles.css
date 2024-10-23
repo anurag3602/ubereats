@@ -1,23 +1,23 @@
 @font-face {
     font-family:uber-1;
-    src: url(/ubereats/fonts/14f73a3f74611002.woff2);
+    src: url(/fonts/14f73a3f74611002.woff2);
 
 }
 @font-face {
     font-family:uber-2;
-    src: url(/ubereats/fonts/276edd4275dda838.woff2);
+    src: url(/fonts/276edd4275dda838.woff2);
 }
 @font-face {
     font-family:uber-3;
-    src: url(/ubereats/fonts/eee1724e2e5a8ebd.woff2);
+    src: url(/fonts/eee1724e2e5a8ebd.woff2);
 }
 @font-face {
     font-family:uber-4;
-    src: url(/ubereats/fonts/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2);
+    src: url(/fonts/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2);
 }
 @font-face {
     font-family:uber-5;
-    src: url(/ubereats/fonts/KFOmCnqEu92Fr1Mu4mxKKTU1Kg\ \(1\).woff2);
+    src: url(/fonts/KFOmCnqEu92Fr1Mu4mxKKTU1Kg\ \(1\).woff2);
 }
 *{
     margin: 0;
